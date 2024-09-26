@@ -1,5 +1,5 @@
 # ubicacion_optima_sig
-Análisis de ubicación óptima de colegios según criterios
+Análisis de ubicación óptima de colegios según criterios (ver archivo "consulta.sql")
 
 - El archivo contiene una propuesta de adaptación del código realizado por el ingeniero Juan Suárez en https://www.youtube.com/watch?v=jVlR9_qkM8c <br>
 - Código original: https://github.com/IngJuanMaSuarez/PostGIS-para-Dummies/blob/main/04%20-%20PostGIS%20-%20Analisis.sql <br>
