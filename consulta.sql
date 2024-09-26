@@ -1,12 +1,3 @@
-/* Adaptación de código realizado por el ingeniero Juan Suárez en https://www.youtube.com/watch?v=jVlR9_qkM8c 
-Código original: https://github.com/IngJuanMaSuarez/PostGIS-para-Dummies/blob/main/04%20-%20PostGIS%20-%20Analisis.sql
-Archivos originales: https://drive.google.com/drive/folders/1VY90McIrfuLC2WOKxSxiZ9i2ZTaKBT6A
-
-PLANTEAMIENTO: 
-Se requiere adquirir una manzana de más de 5000 metros cuadrados para construir un nuevo colegio de primaria, 
-asegurando que esté a más de 300 metros de otro colegio, a más de 200 metros de cualquier equipamiento y en una 
-zona exclusivamente residencial*/
-
 -- CÓDIGO PARA SER EJECUTADO DESDE PGADMIN
 WITH
     manzanas_grandes AS (
